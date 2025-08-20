@@ -1,0 +1,20 @@
+[
+  {
+    "manufacturer": "Nissan",
+    "model": "GT-R",
+    "year": 2023,
+    "imagePath": "/images/gtr.jpg"
+  },
+  {
+    "manufacturer": "Toyota",
+    "model": "Supra",
+    "year": 2022,
+    "imagePath": "/images/supra.jpg"
+  },
+  {
+    "manufacturer": "Honda",
+    "model": "Civic Type R",
+    "year": 2021,
+    "imagePath": "/images/ctr.jpg"
+  }
+]
