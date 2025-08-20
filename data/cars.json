@@ -1,0 +1,5 @@
+[
+  { "manufacturer": "Nissan", "model": "Skyline", "year": 1999 },
+  { "manufacturer": "Toyota", "model": "Supra", "year": 1998 },
+  { "manufacturer": "Honda", "model": "NSX", "year": 2005 }
+]
